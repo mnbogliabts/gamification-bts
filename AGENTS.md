@@ -31,6 +31,13 @@ npm test --workspace=frontend
 - **Frontend entrypoint**: `frontend/src/main.tsx` (via Vite)
 - **Database**: PostgreSQL (default port 5432)
 
+## Workspace-specific Docs
+
+For detailed information about each workspace, see:
+
+- **[backend/AGENTS.md](backend/AGENTS.md)** — Backend architecture, DDD patterns, naming conventions
+- **[frontend/AGENTS.md](frontend/AGENTS.md)** — Frontend patterns, component structure, style rules
+
 ## Docker
 
 ```bash
