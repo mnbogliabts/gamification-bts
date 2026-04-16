@@ -51,3 +51,10 @@ docker-compose up -d                            # Production
 - Skill registry: `.atl/skill-registry.md`
 - ESLint + Prettier enforced
 - DDD pattern: domain entities, value objects, application use cases, infrastructure repositories
+
+## Custom Skills
+
+| Skill             | Description                                                                 | Location                                    |
+| ----------------- | --------------------------------------------------------------------------- | ------------------------------------------- |
+| `react-component` | Generate React components with inline styles, TypeScript patterns           | [SKILL.md](skills/react-component/SKILL.md) |
+| `ddl-entity`      | Generate DDD entities, repositories, use cases following Clean Architecture | [SKILL.md](skills/ddl-entity/SKILL.md)      |
