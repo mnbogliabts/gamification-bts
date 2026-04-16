@@ -1,0 +1,2 @@
+# Infrastructure layer
+# Contains database repositories, file storage, external services, and auth
