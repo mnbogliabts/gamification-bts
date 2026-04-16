@@ -58,3 +58,7 @@ docker-compose up -d                            # Production
 | ----------------- | --------------------------------------------------------------------------- | ------------------------------------------- |
 | `react-component` | Generate React components with inline styles, TypeScript patterns           | [SKILL.md](skills/react-component/SKILL.md) |
 | `ddl-entity`      | Generate DDD entities, repositories, use cases following Clean Architecture | [SKILL.md](skills/ddl-entity/SKILL.md)      |
+| `project-build`   | Build, test, dev commands for monorepo                                      | [SKILL.md](skills/project-build/SKILL.md)   |
+| `docker-dev`      | Docker Compose dev commands                                                 | [SKILL.md](skills/docker-dev/SKILL.md)      |
+| `lint-fix`        | ESLint + Prettier commands                                                  | [SKILL.md](skills/lint-fix/SKILL.md)        |
+| `db-migrate`      | Database migrations and init                                                | [SKILL.md](skills/db-migrate/SKILL.md)      |
